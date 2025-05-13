@@ -18,4 +18,5 @@ To run the project you can use SELECT statements to query and retrieve informati
   List all students:
   SELECT * FROM Students;
 
-  ![ERD Diagram]
+##erd
+  ![ERD Diagram] (https://github.com/cathykafi/database/blob/main/Screenshot_2025-05-14_00_15_24.png)
