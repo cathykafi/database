@@ -20,3 +20,4 @@ To run the project you can use SELECT statements to query and retrieve informati
 
 ##erd
   ![ERD Diagram] (https://github.com/cathykafi/database/blob/main/Screenshot_2025-05-14_00_15_24.png)
+  ![ERD Diagram] (https://github.com/cathykafi/database/blob/main/Screenshot_2025-05-14_00_15_34.png)
