@@ -18,4 +18,4 @@ To run the project you can use SELECT statements to query and retrieve informati
   List all students:
   SELECT * FROM Students;
 
-  
+  ![ERD Diagram]
